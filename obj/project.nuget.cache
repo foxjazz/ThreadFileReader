@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I9Hhrf1JAZpwyTkhSWnAUNNPl7QvUIo9oyc3bScITTNTytRy6oWqk5B4dIpEqacUs2Vofmv9iGBfEfzfUgYE5Q==",
+  "dgSpecHash": "bJU1lFgm939qIX1suemjnbK+m/U41qyZrHvakHajAYpL/hg80mzLtc2c56Mrv2za9rK6/OJI5qtoH9dvOEiFog==",
   "success": true,
   "projectFilePath": "D:\\Code\\ThreadFileReader\\ThreadFileReader.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\joe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\joe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
-    "C:\\Users\\joe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "C:\\Users\\joe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
