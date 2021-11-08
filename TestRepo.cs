@@ -26,7 +26,7 @@ namespace ThreadFileReader
             
             var st = Thread.CurrentThread.ManagedThreadId;
             Console.WriteLine($"{st}");
-            var fn = Environment.CurrentDirectory + "\\Test\\testFile5.txt";
+            var fn = Environment.CurrentDirectory + "/Test/testFile5.txt";
             if(File.Exists(fn))
                 File.Delete(fn);
             var x = File.Create(fn);

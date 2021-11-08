@@ -35,7 +35,7 @@ namespace ThreadFileReader
 
             lock (Program.fileLock)
             {
-                StreamReader sr = new StreamReader(@"config\LogFileNames.txt");
+                StreamReader sr = new StreamReader(@"/config/LogFileNames.txt");
                 while (true)
                 {
                     var read = sr.ReadLine();

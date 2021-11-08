@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bJU1lFgm939qIX1suemjnbK+m/U41qyZrHvakHajAYpL/hg80mzLtc2c56Mrv2za9rK6/OJI5qtoH9dvOEiFog==",
+  "dgSpecHash": "UZDEKKqvd5EjVqcWLunTuj47upJT4wM34e2cqUrup/1N/SYS+0L/3EUj4IrPXlZusVqgN7bJb2Zz81qTXJ4oBA==",
   "success": true,
-  "projectFilePath": "D:\\Code\\ThreadFileReader\\ThreadFileReader.csproj",
+  "projectFilePath": "/home/fly/github/threadFileReader/ThreadFileReader.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
