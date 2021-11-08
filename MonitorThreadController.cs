@@ -61,6 +61,14 @@ namespace ThreadFileReader
                     {
                         try
                         {
+                            if (!fs.CanRead)
+                            {
+                                if (fs != null)
+                                {
+                                    fs.Dispose();
+                                    fs = new FileStream(logFileName, FileMode.Open, FileAccess.Read, FileShare.Read);
+                                }
+                            }
                             fs.Seek(fileLength, 0);
                         }
                         catch (Exception ex)
